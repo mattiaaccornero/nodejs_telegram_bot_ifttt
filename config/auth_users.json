@@ -1,0 +1,10 @@
+[
+	{
+		"chat_id": 12345678,
+		"name": "John Doe"
+	},
+	{
+		"chat_id": 87654321,
+		"name": "Jane Doe"
+	}
+]

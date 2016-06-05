@@ -1,0 +1,4 @@
+PassengerAppRoot /home/[username]/[domain folder]/
+PassengerAppType node
+PassengerStartupFile app.js
+

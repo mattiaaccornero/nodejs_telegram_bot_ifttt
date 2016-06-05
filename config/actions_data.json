@@ -1,0 +1,18 @@
+[
+	{
+		"id": "turn_on_bed_light",
+		"ok_message": "Bed light is now turned on!"
+	},
+	{
+		"id": "turn_off_bed_light",
+		"ok_message": "Bed light is now turned off!"
+	},
+	{
+		"id": "turn_on_lights",
+		"ok_message": "Lights on!"
+	},
+	{
+		"id": "turn_off_lights",
+		"ok_message": "Lights off!"
+	}
+]

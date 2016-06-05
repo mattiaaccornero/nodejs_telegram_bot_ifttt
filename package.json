@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_telegram_bot_ifttt",
+  "version": "1.0.0",
+  "description": "A simple Telegram Bot that enables you to make requests to IFTTT.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "node-ifttt-maker": "^0.1.2",
+    "node-telegram-bot": "^0.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "telegram",
+    "ifttt"
+  ],
+  "author": "Mattia Accornero (macco.me)",
+  "license": "ISC"
+}
