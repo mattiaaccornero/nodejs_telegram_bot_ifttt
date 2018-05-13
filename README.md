@@ -4,7 +4,7 @@
 
 A simple Telegram Bot that enables you to make requests to IFTTT.
 
-(Italian article here: http://hello.macco.me/2016/06/ifttt-via-bot-telegram-nodejs/)
+(Italian article here: https://mattiaaccornero.com/2016/06/ifttt-via-bot-telegram-nodejs/)
 
 
 ## Dependencies
